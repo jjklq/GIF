@@ -2,7 +2,7 @@ import requests
 
 def search_gifs(search_query):
    
-    api_key = 'YOUR_API_KEY'
+    api_key = 'p0WB6gK7OYTgXogR5ePWRqxyuLLpjOBO'
     base_url = 'https://api.giphy.com/v1/gifs/search'
     params = {
         'q': search_query,
